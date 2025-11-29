@@ -1,16 +1,3 @@
-# components_design
+This is a very simple Travel based Flutter application that brings together several small but useful tools in a single interface. The app acts as a central hub where users can explore travel destinations, calculate EMIs and manage their expenses.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The main home screen provides easy navigation to each feature, allowing users to move between the travel explorer, EMI calculator and budget manager. The project demonstrates how multiple independent screens can be structured, organized, and interconnected within a single Flutter application using named routes. Overall, it serves as a simple example of building a modular Flutter app that integrates different functionalities into one unified experience.
